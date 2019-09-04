@@ -1,0 +1,19 @@
+
+.dz-container {
+
+  .dz-img {
+    width: 100%;
+    height: 100%;
+  }
+
+  &.dz-style {
+
+    .dz-img {
+      transition: .3s;
+      border: 2px dashed rgba(66, 182, 255, 0.39);
+    }
+    .dz-img.dz-active {
+      border-color: rgba(66, 182, 255, 1);
+    }
+  }
+}

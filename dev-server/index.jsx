@@ -1,5 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import YourLibray from '../lib';
+import Dropzone from '../lib';
 
-ReactDOM.render(<YourLibray />, document.getElementById('root'));
+ReactDOM.render(<Dropzone defaultStyle />, document.getElementById('root'));

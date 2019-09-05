@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ok fine 1`] = `
+<div
+  className="dz-container dz-style"
+  onDragEnter={[Function]}
+  onDragLeave={[Function]}
+  onDragOver={[Function]}
+  onDrop={[Function]}
+  style={Object {}}
+>
+  <div
+    className="dz-img "
+  />
+  <span>
+    Drop file here
+  </span>
+</div>
+`;
